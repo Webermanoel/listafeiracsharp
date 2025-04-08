@@ -1,0 +1,14 @@
+C:\Users\weber_xfe5t2w\source\repos\listafeiracsharp\listafeiracsharp\bin\Debug\net8.0\listafeiracsharp.exe
+C:\Users\weber_xfe5t2w\source\repos\listafeiracsharp\listafeiracsharp\bin\Debug\net8.0\listafeiracsharp.deps.json
+C:\Users\weber_xfe5t2w\source\repos\listafeiracsharp\listafeiracsharp\bin\Debug\net8.0\listafeiracsharp.runtimeconfig.json
+C:\Users\weber_xfe5t2w\source\repos\listafeiracsharp\listafeiracsharp\bin\Debug\net8.0\listafeiracsharp.dll
+C:\Users\weber_xfe5t2w\source\repos\listafeiracsharp\listafeiracsharp\bin\Debug\net8.0\listafeiracsharp.pdb
+C:\Users\weber_xfe5t2w\source\repos\listafeiracsharp\listafeiracsharp\obj\Debug\net8.0\listafeiracsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weber_xfe5t2w\source\repos\listafeiracsharp\listafeiracsharp\obj\Debug\net8.0\listafeiracsharp.AssemblyInfoInputs.cache
+C:\Users\weber_xfe5t2w\source\repos\listafeiracsharp\listafeiracsharp\obj\Debug\net8.0\listafeiracsharp.AssemblyInfo.cs
+C:\Users\weber_xfe5t2w\source\repos\listafeiracsharp\listafeiracsharp\obj\Debug\net8.0\listafeiracsharp.csproj.CoreCompileInputs.cache
+C:\Users\weber_xfe5t2w\source\repos\listafeiracsharp\listafeiracsharp\obj\Debug\net8.0\listafeiracsharp.dll
+C:\Users\weber_xfe5t2w\source\repos\listafeiracsharp\listafeiracsharp\obj\Debug\net8.0\refint\listafeiracsharp.dll
+C:\Users\weber_xfe5t2w\source\repos\listafeiracsharp\listafeiracsharp\obj\Debug\net8.0\listafeiracsharp.pdb
+C:\Users\weber_xfe5t2w\source\repos\listafeiracsharp\listafeiracsharp\obj\Debug\net8.0\listafeiracsharp.genruntimeconfig.cache
+C:\Users\weber_xfe5t2w\source\repos\listafeiracsharp\listafeiracsharp\obj\Debug\net8.0\ref\listafeiracsharp.dll
